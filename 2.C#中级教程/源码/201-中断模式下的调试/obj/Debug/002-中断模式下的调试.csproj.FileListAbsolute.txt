@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\201-中断模式下的调试\bin\Debug\201-中断模式下的调试.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\201-中断模式下的调试\bin\Debug\201-中断模式下的调试.exe
+E:\vs workspace\学习 c sharp编程 中级篇\201-中断模式下的调试\bin\Debug\201-中断模式下的调试.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\201-中断模式下的调试\obj\Debug\002-中断模式下的调试.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\201-中断模式下的调试\obj\Debug\201-中断模式下的调试.exe
+E:\vs workspace\学习 c sharp编程 中级篇\201-中断模式下的调试\obj\Debug\201-中断模式下的调试.pdb

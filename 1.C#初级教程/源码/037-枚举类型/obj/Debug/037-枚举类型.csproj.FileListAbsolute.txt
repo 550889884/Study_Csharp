@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\037-枚举类型\bin\Debug\037-枚举类型.exe.config
+E:\vs workspace\学习c sharp编程\037-枚举类型\bin\Debug\037-枚举类型.exe
+E:\vs workspace\学习c sharp编程\037-枚举类型\bin\Debug\037-枚举类型.pdb
+E:\vs workspace\学习c sharp编程\037-枚举类型\obj\Debug\037-枚举类型.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\037-枚举类型\obj\Debug\037-枚举类型.exe
+E:\vs workspace\学习c sharp编程\037-枚举类型\obj\Debug\037-枚举类型.pdb

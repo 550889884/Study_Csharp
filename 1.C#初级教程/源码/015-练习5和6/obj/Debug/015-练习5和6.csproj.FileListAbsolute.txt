@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\015-练习5和6\bin\Debug\015-练习5和6.exe.config
+E:\vs workspace\学习c sharp编程\015-练习5和6\bin\Debug\015-练习5和6.exe
+E:\vs workspace\学习c sharp编程\015-练习5和6\bin\Debug\015-练习5和6.pdb
+E:\vs workspace\学习c sharp编程\015-练习5和6\obj\Debug\015-练习5和6.exe
+E:\vs workspace\学习c sharp编程\015-练习5和6\obj\Debug\015-练习5和6.pdb

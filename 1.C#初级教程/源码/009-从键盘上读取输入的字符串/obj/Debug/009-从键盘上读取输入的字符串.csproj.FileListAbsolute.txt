@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\009-从键盘上读取输入的字符串\bin\Debug\009-从键盘上读取输入的字符串.exe.config
+E:\vs workspace\学习c sharp编程\009-从键盘上读取输入的字符串\bin\Debug\009-从键盘上读取输入的字符串.exe
+E:\vs workspace\学习c sharp编程\009-从键盘上读取输入的字符串\bin\Debug\009-从键盘上读取输入的字符串.pdb
+E:\vs workspace\学习c sharp编程\009-从键盘上读取输入的字符串\obj\Debug\009-从键盘上读取输入的字符串.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\009-从键盘上读取输入的字符串\obj\Debug\009-从键盘上读取输入的字符串.exe
+E:\vs workspace\学习c sharp编程\009-从键盘上读取输入的字符串\obj\Debug\009-从键盘上读取输入的字符串.pdb

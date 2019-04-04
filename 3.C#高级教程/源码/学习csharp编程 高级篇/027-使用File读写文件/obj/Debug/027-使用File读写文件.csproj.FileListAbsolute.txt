@@ -1,0 +1,7 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\bin\Debug\027-使用File读写文件.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\bin\Debug\TextFile1.txt
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\bin\Debug\027-使用File读写文件.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\bin\Debug\027-使用File读写文件.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\obj\Debug\027-使用File读写文件.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\obj\Debug\027-使用File读写文件.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\027-使用File读写文件\bin\Debug\3.LINQ.png

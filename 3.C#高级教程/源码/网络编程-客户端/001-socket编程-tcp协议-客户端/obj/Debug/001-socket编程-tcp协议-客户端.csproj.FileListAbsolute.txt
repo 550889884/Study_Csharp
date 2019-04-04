@@ -1,0 +1,5 @@
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\001-socket编程-tcp协议-客户端\bin\Debug\001-socket编程-tcp协议-客户端.exe.config
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\001-socket编程-tcp协议-客户端\bin\Debug\001-socket编程-tcp协议-客户端.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\001-socket编程-tcp协议-客户端\bin\Debug\001-socket编程-tcp协议-客户端.pdb
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\001-socket编程-tcp协议-客户端\obj\Debug\001-socket编程-tcp协议-客户端.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\001-socket编程-tcp协议-客户端\obj\Debug\001-socket编程-tcp协议-客户端.pdb

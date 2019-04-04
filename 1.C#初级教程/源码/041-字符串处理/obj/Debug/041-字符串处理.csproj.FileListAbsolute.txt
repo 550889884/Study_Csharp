@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\041-字符串处理\bin\Debug\041-字符串处理.exe.config
+E:\vs workspace\学习c sharp编程\041-字符串处理\bin\Debug\041-字符串处理.exe
+E:\vs workspace\学习c sharp编程\041-字符串处理\bin\Debug\041-字符串处理.pdb
+E:\vs workspace\学习c sharp编程\041-字符串处理\obj\Debug\041-字符串处理.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\041-字符串处理\obj\Debug\041-字符串处理.exe
+E:\vs workspace\学习c sharp编程\041-字符串处理\obj\Debug\041-字符串处理.pdb

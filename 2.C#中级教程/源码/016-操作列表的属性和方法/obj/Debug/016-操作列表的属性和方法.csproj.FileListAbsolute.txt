@@ -1,0 +1,5 @@
+E:\vs workspace\学习 c sharp编程 中级篇\016-操作列表的属性和方法\bin\Debug\016-操作列表的属性和方法.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\016-操作列表的属性和方法\bin\Debug\016-操作列表的属性和方法.exe
+E:\vs workspace\学习 c sharp编程 中级篇\016-操作列表的属性和方法\bin\Debug\016-操作列表的属性和方法.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\016-操作列表的属性和方法\obj\Debug\016-操作列表的属性和方法.exe
+E:\vs workspace\学习 c sharp编程 中级篇\016-操作列表的属性和方法\obj\Debug\016-操作列表的属性和方法.pdb

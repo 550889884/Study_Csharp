@@ -1,0 +1,6 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\019-线程-任务\bin\Debug\019-线程-任务.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\019-线程-任务\bin\Debug\019-线程-任务.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\019-线程-任务\bin\Debug\019-线程-任务.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\019-线程-任务\obj\Debug\019-线程-任务.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\019-线程-任务\obj\Debug\019-线程-任务.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\019-线程-任务\obj\Debug\019-线程-任务.pdb

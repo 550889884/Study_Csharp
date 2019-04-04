@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\005-面向对象编程-类\bin\Debug\005-面向对象编程-类.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\005-面向对象编程-类\bin\Debug\005-面向对象编程-类.exe
+E:\vs workspace\学习 c sharp编程 中级篇\005-面向对象编程-类\bin\Debug\005-面向对象编程-类.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\005-面向对象编程-类\obj\Debug\005-面向对象编程-类.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\005-面向对象编程-类\obj\Debug\005-面向对象编程-类.exe
+E:\vs workspace\学习 c sharp编程 中级篇\005-面向对象编程-类\obj\Debug\005-面向对象编程-类.pdb

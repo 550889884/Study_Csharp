@@ -1,0 +1,7 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\bin\Debug\030-项目了.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\bin\Debug\skillinfo.txt
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\bin\Debug\030-项目了.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\bin\Debug\030-项目了.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\obj\Debug\030-xml操作.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\obj\Debug\030-项目了.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\030-项目了\obj\Debug\030-项目了.pdb

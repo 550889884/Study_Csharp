@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\049-函数的定义和使用 案例学习\bin\Debug\049-函数的定义和使用 案例学习.exe.config
+E:\vs workspace\学习c sharp编程\049-函数的定义和使用 案例学习\bin\Debug\049-函数的定义和使用 案例学习.exe
+E:\vs workspace\学习c sharp编程\049-函数的定义和使用 案例学习\bin\Debug\049-函数的定义和使用 案例学习.pdb
+E:\vs workspace\学习c sharp编程\049-函数的定义和使用 案例学习\obj\Debug\049-函数的定义和使用 案例学习.exe
+E:\vs workspace\学习c sharp编程\049-函数的定义和使用 案例学习\obj\Debug\049-函数的定义和使用 案例学习.pdb

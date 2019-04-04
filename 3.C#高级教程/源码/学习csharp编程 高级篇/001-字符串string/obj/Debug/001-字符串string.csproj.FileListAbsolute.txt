@@ -1,0 +1,6 @@
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\001-字符串string\bin\Debug\001-字符串string.exe.config
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\001-字符串string\bin\Debug\001-字符串string.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\001-字符串string\bin\Debug\001-字符串string.pdb
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.csprojResolveAssemblyReference.cache
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\001-字符串string\obj\Debug\001-字符串string.pdb

@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\008-数学运算符 自加和自减\bin\Debug\008-数学运算符 自加和自减.exe.config
+E:\vs workspace\学习c sharp编程\008-数学运算符 自加和自减\bin\Debug\008-数学运算符 自加和自减.exe
+E:\vs workspace\学习c sharp编程\008-数学运算符 自加和自减\bin\Debug\008-数学运算符 自加和自减.pdb
+E:\vs workspace\学习c sharp编程\008-数学运算符 自加和自减\obj\Debug\008-数学运算符 自加和自减.exe
+E:\vs workspace\学习c sharp编程\008-数学运算符 自加和自减\obj\Debug\008-数学运算符 自加和自减.pdb
+E:\vs workspace\学习c sharp编程\008-数学运算符 自加和自减\obj\Debug\008-数学运算符 自加和自减.csprojResolveAssemblyReference.cache

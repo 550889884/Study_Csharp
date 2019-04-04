@@ -1,0 +1,5 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\008-多播委托\bin\Debug\008-多播委托.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\008-多播委托\bin\Debug\008-多播委托.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\008-多播委托\bin\Debug\008-多播委托.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\008-多播委托\obj\Debug\008-多播委托.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\008-多播委托\obj\Debug\008-多播委托.pdb

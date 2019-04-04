@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\040-数组的遍历\bin\Debug\040-数组的遍历.exe.config
+E:\vs workspace\学习c sharp编程\040-数组的遍历\bin\Debug\040-数组的遍历.exe
+E:\vs workspace\学习c sharp编程\040-数组的遍历\bin\Debug\040-数组的遍历.pdb
+E:\vs workspace\学习c sharp编程\040-数组的遍历\obj\Debug\040-数组的遍历.exe
+E:\vs workspace\学习c sharp编程\040-数组的遍历\obj\Debug\040-数组的遍历.pdb

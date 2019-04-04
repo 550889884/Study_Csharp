@@ -1,0 +1,5 @@
+E:\vs workspace\学习 c sharp编程 中级篇\004-异常处理-案例2\bin\Debug\004-异常处理-案例2.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\004-异常处理-案例2\bin\Debug\004-异常处理-案例2.exe
+E:\vs workspace\学习 c sharp编程 中级篇\004-异常处理-案例2\bin\Debug\004-异常处理-案例2.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\004-异常处理-案例2\obj\Debug\004-异常处理-案例2.exe
+E:\vs workspace\学习 c sharp编程 中级篇\004-异常处理-案例2\obj\Debug\004-异常处理-案例2.pdb

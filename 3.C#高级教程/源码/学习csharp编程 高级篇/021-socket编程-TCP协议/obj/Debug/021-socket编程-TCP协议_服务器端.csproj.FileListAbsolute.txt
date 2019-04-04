@@ -1,0 +1,6 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\bin\Debug\021-socket编程-TCP协议.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\bin\Debug\021-socket编程-TCP协议.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\bin\Debug\021-socket编程-TCP协议.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\obj\Debug\021-socket编程-TCP协议_服务器端.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\obj\Debug\021-socket编程-TCP协议.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\obj\Debug\021-socket编程-TCP协议.pdb

@@ -1,0 +1,6 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\007-冒泡排序拓展\bin\Debug\007-冒泡排序拓展.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\007-冒泡排序拓展\bin\Debug\007-冒泡排序拓展.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\007-冒泡排序拓展\bin\Debug\007-冒泡排序拓展.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\007-冒泡排序拓展\obj\Debug\007-冒泡排序拓展.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\007-冒泡排序拓展\obj\Debug\007-冒泡排序拓展.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\007-冒泡排序拓展\obj\Debug\007-冒泡排序拓展.csprojResolveAssemblyReference.cache

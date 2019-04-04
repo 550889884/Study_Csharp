@@ -1,0 +1,5 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\002-socket编程-udp协议-客户端\bin\Debug\002-socket编程-udp协议-客户端.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\002-socket编程-udp协议-客户端\bin\Debug\002-socket编程-udp协议-客户端.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\002-socket编程-udp协议-客户端\bin\Debug\002-socket编程-udp协议-客户端.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\002-socket编程-udp协议-客户端\obj\Debug\002-socket编程-udp协议-客户端.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\002-socket编程-udp协议-客户端\obj\Debug\002-socket编程-udp协议-客户端.pdb

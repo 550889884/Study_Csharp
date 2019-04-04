@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\008-值类型和引用类型 - 程序运行时候内存的占用\bin\Debug\008-值类型和引用类型 - 程序运行时候内存的占用.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\008-值类型和引用类型 - 程序运行时候内存的占用\bin\Debug\008-值类型和引用类型 - 程序运行时候内存的占用.exe
+E:\vs workspace\学习 c sharp编程 中级篇\008-值类型和引用类型 - 程序运行时候内存的占用\bin\Debug\008-值类型和引用类型 - 程序运行时候内存的占用.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\008-值类型和引用类型 - 程序运行时候内存的占用\obj\Debug\008-值类型和引用类型 - 程序运行时候内存的占用.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\008-值类型和引用类型 - 程序运行时候内存的占用\obj\Debug\008-值类型和引用类型 - 程序运行时候内存的占用.exe
+E:\vs workspace\学习 c sharp编程 中级篇\008-值类型和引用类型 - 程序运行时候内存的占用\obj\Debug\008-值类型和引用类型 - 程序运行时候内存的占用.pdb

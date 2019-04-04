@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\033-for循环的嵌套调用\bin\Debug\033-for循环的嵌套调用.exe.config
+E:\vs workspace\学习c sharp编程\033-for循环的嵌套调用\bin\Debug\033-for循环的嵌套调用.exe
+E:\vs workspace\学习c sharp编程\033-for循环的嵌套调用\bin\Debug\033-for循环的嵌套调用.pdb
+E:\vs workspace\学习c sharp编程\033-for循环的嵌套调用\obj\Debug\033-for循环的嵌套调用.exe
+E:\vs workspace\学习c sharp编程\033-for循环的嵌套调用\obj\Debug\033-for循环的嵌套调用.pdb

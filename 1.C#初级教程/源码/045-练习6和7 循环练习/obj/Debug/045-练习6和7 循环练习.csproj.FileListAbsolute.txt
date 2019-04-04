@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\045-练习6和7 循环练习\bin\Debug\045-练习6和7 循环练习.exe.config
+E:\vs workspace\学习c sharp编程\045-练习6和7 循环练习\bin\Debug\045-练习6和7 循环练习.exe
+E:\vs workspace\学习c sharp编程\045-练习6和7 循环练习\bin\Debug\045-练习6和7 循环练习.pdb
+E:\vs workspace\学习c sharp编程\045-练习6和7 循环练习\obj\Debug\045-练习6和7 循环练习.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\045-练习6和7 循环练习\obj\Debug\045-练习6和7 循环练习.exe
+E:\vs workspace\学习c sharp编程\045-练习6和7 循环练习\obj\Debug\045-练习6和7 循环练习.pdb

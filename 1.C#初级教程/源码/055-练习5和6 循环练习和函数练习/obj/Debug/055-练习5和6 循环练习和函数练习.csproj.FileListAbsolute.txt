@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\055-练习5和6 循环练习和函数练习\bin\Debug\055-练习5和6 循环练习和函数练习.exe.config
+E:\vs workspace\学习c sharp编程\055-练习5和6 循环练习和函数练习\bin\Debug\055-练习5和6 循环练习和函数练习.exe
+E:\vs workspace\学习c sharp编程\055-练习5和6 循环练习和函数练习\bin\Debug\055-练习5和6 循环练习和函数练习.pdb
+E:\vs workspace\学习c sharp编程\055-练习5和6 循环练习和函数练习\obj\Debug\055-练习5和6 循环练习和函数练习.exe
+E:\vs workspace\学习c sharp编程\055-练习5和6 循环练习和函数练习\obj\Debug\055-练习5和6 循环练习和函数练习.pdb

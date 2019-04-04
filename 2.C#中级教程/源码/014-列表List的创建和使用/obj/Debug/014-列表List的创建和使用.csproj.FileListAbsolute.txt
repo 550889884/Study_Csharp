@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\014-列表List的创建和使用\bin\Debug\014-列表List的创建和使用.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\014-列表List的创建和使用\bin\Debug\014-列表List的创建和使用.exe
+E:\vs workspace\学习 c sharp编程 中级篇\014-列表List的创建和使用\bin\Debug\014-列表List的创建和使用.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\014-列表List的创建和使用\obj\Debug\014-列表List的创建和使用.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\014-列表List的创建和使用\obj\Debug\014-列表List的创建和使用.exe
+E:\vs workspace\学习 c sharp编程 中级篇\014-列表List的创建和使用\obj\Debug\014-列表List的创建和使用.pdb

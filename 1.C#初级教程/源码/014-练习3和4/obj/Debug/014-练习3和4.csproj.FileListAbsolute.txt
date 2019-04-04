@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\014-练习3和4\bin\Debug\014-练习3和4.exe.config
+E:\vs workspace\学习c sharp编程\014-练习3和4\bin\Debug\014-练习3和4.exe
+E:\vs workspace\学习c sharp编程\014-练习3和4\bin\Debug\014-练习3和4.pdb
+E:\vs workspace\学习c sharp编程\014-练习3和4\obj\Debug\014-练习3和4.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\014-练习3和4\obj\Debug\014-练习3和4.exe
+E:\vs workspace\学习c sharp编程\014-练习3和4\obj\Debug\014-练习3和4.pdb

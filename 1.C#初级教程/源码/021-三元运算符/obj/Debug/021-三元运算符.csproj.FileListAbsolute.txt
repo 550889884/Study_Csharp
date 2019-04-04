@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\021-三元运算符\bin\Debug\021-三元运算符.exe.config
+E:\vs workspace\学习c sharp编程\021-三元运算符\bin\Debug\021-三元运算符.exe
+E:\vs workspace\学习c sharp编程\021-三元运算符\bin\Debug\021-三元运算符.pdb
+E:\vs workspace\学习c sharp编程\021-三元运算符\obj\Debug\021-三元运算符.exe
+E:\vs workspace\学习c sharp编程\021-三元运算符\obj\Debug\021-三元运算符.pdb
+E:\vs workspace\学习c sharp编程\021-三元运算符\obj\Debug\021-三元运算符.csprojResolveAssemblyReference.cache

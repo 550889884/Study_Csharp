@@ -1,0 +1,6 @@
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\002-字符串StringBuilder\bin\Debug\002-字符串StringBuilder.exe.config
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\002-字符串StringBuilder\bin\Debug\002-字符串StringBuilder.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\002-字符串StringBuilder\bin\Debug\002-字符串StringBuilder.pdb
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\002-字符串StringBuilder\obj\Debug\002-字符串StringBuilder.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\002-字符串StringBuilder\obj\Debug\002-字符串StringBuilder.pdb
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\002-字符串StringBuilder\obj\Debug\002-字符串StringBuilder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+1，在Main方法中定义变量，用这些变量存储游戏中一个敌人应该有的一些属性，定义尽可能多的变量。
+	int hp;
+	float x;
+	float y;
+	float z;
+	float speed;
+	
+2,下面哪些变量名不合法？
+	myVariableIsGood
+	99Flake
+	_floor
+	time2GetJiggyWidIt
+	wrox.com
+3，接受用户输入的两个整数，存储到两个变量里面，交换变量存储的值。
+
+	int i = 34;
+	int j = 3434;
+	int temp = j;
+	j = i;
+	i = temp;
+	
+	
+	int i = 34;
+	int j = 3434;
+	i = j-i;// i3400  j3434
+	j = j-i;//j 34    i3400
+	i = j+i;//j = 34 i = 3434
+4，编写一个控制台应用程序，要求用户输入4个int值，并显示他们的乘积。
+5，从键盘输入一个三位的正整数，按数字的相反顺序输出。
+	string numStr = "234";
+	int num =234;
+	int ge = num%10;
+	int shi =((num - ge)/10)%10;
+	int bai =num /100;
+	
+6，编写一个程序，输入梯形的上底 下底 和高 ，计算出来梯形的面积并显示出来。
+7，计算半径为n的圆的周长和面积
+	3.14*n*2
+	n*n*3.14

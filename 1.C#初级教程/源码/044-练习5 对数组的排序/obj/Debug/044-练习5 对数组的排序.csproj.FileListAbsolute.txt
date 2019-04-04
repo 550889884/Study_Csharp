@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\044-练习5 对数组的排序\bin\Debug\044-练习5 对数组的排序.exe.config
+E:\vs workspace\学习c sharp编程\044-练习5 对数组的排序\bin\Debug\044-练习5 对数组的排序.exe
+E:\vs workspace\学习c sharp编程\044-练习5 对数组的排序\bin\Debug\044-练习5 对数组的排序.pdb
+E:\vs workspace\学习c sharp编程\044-练习5 对数组的排序\obj\Debug\044-练习5 对数组的排序.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\044-练习5 对数组的排序\obj\Debug\044-练习5 对数组的排序.exe
+E:\vs workspace\学习c sharp编程\044-练习5 对数组的排序\obj\Debug\044-练习5 对数组的排序.pdb

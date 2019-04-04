@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\002-变量\bin\Debug\002-变量.exe.config
+E:\vs workspace\学习c sharp编程\002-变量\bin\Debug\002-变量.exe
+E:\vs workspace\学习c sharp编程\002-变量\bin\Debug\002-变量.pdb
+E:\vs workspace\学习c sharp编程\002-变量\obj\Debug\002-变量.exe
+E:\vs workspace\学习c sharp编程\002-变量\obj\Debug\002-变量.pdb

@@ -1,0 +1,7 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\bin\Debug\033-Excel操作.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\bin\Debug\装备信息.xls
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\bin\Debug\033-Excel操作.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\bin\Debug\033-Excel操作.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\obj\Debug\033-Excel操作.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\obj\Debug\033-Excel操作.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\033-Excel操作\obj\Debug\033-Excel操作.pdb

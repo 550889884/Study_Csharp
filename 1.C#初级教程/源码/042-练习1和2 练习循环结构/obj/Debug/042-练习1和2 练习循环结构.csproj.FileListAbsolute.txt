@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\042-练习1和2 练习循环结构\bin\Debug\042-练习1和2 练习循环结构.exe.config
+E:\vs workspace\学习c sharp编程\042-练习1和2 练习循环结构\bin\Debug\042-练习1和2 练习循环结构.exe
+E:\vs workspace\学习c sharp编程\042-练习1和2 练习循环结构\bin\Debug\042-练习1和2 练习循环结构.pdb
+E:\vs workspace\学习c sharp编程\042-练习1和2 练习循环结构\obj\Debug\042-练习1和2 练习循环结构.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\042-练习1和2 练习循环结构\obj\Debug\042-练习1和2 练习循环结构.exe
+E:\vs workspace\学习c sharp编程\042-练习1和2 练习循环结构\obj\Debug\042-练习1和2 练习循环结构.pdb

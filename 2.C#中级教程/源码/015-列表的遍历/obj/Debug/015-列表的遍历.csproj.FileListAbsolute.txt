@@ -1,0 +1,5 @@
+E:\vs workspace\学习 c sharp编程 中级篇\015-列表的遍历\bin\Debug\015-列表的遍历.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\015-列表的遍历\bin\Debug\015-列表的遍历.exe
+E:\vs workspace\学习 c sharp编程 中级篇\015-列表的遍历\bin\Debug\015-列表的遍历.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\015-列表的遍历\obj\Debug\015-列表的遍历.exe
+E:\vs workspace\学习 c sharp编程 中级篇\015-列表的遍历\obj\Debug\015-列表的遍历.pdb

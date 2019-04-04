@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\034-练习10-11 循环结构练习，字符和字符串操作\bin\Debug\034-练习10-11 循环结构练习，字符和字符串操作.exe.config
+E:\vs workspace\学习c sharp编程\034-练习10-11 循环结构练习，字符和字符串操作\bin\Debug\034-练习10-11 循环结构练习，字符和字符串操作.exe
+E:\vs workspace\学习c sharp编程\034-练习10-11 循环结构练习，字符和字符串操作\bin\Debug\034-练习10-11 循环结构练习，字符和字符串操作.pdb
+E:\vs workspace\学习c sharp编程\034-练习10-11 循环结构练习，字符和字符串操作\obj\Debug\034-练习10-11 循环结构练习，字符和字符串操作.exe
+E:\vs workspace\学习c sharp编程\034-练习10-11 循环结构练习，字符和字符串操作\obj\Debug\034-练习10-11 循环结构练习，字符和字符串操作.pdb
+E:\vs workspace\学习c sharp编程\034-练习10-11 循环结构练习，字符和字符串操作\obj\Debug\034-练习10-11 循环结构练习，字符和字符串操作.csprojResolveAssemblyReference.cache

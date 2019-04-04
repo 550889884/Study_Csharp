@@ -1,0 +1,6 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\016-线程-委托方式发起线程\bin\Debug\016-线程-委托方式发起线程.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\016-线程-委托方式发起线程\bin\Debug\016-线程-委托方式发起线程.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\016-线程-委托方式发起线程\bin\Debug\016-线程-委托方式发起线程.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\016-线程-委托方式发起线程\obj\Debug\016-线程-委托方式发起线程.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\016-线程-委托方式发起线程\obj\Debug\016-线程-委托方式发起线程.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\016-线程-委托方式发起线程\obj\Debug\016-线程-委托方式发起线程.pdb

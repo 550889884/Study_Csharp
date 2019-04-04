@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\038-结构体\bin\Debug\038-结构体.exe.config
+E:\vs workspace\学习c sharp编程\038-结构体\bin\Debug\038-结构体.exe
+E:\vs workspace\学习c sharp编程\038-结构体\bin\Debug\038-结构体.pdb
+E:\vs workspace\学习c sharp编程\038-结构体\obj\Debug\038-结构体.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\038-结构体\obj\Debug\038-结构体.exe
+E:\vs workspace\学习c sharp编程\038-结构体\obj\Debug\038-结构体.pdb

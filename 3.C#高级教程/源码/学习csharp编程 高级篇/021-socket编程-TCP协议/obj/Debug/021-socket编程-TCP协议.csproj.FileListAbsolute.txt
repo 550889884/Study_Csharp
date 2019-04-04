@@ -1,0 +1,1 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\021-socket编程-TCP协议\bin\Debug\021-socket编程-TCP协议.exe.config

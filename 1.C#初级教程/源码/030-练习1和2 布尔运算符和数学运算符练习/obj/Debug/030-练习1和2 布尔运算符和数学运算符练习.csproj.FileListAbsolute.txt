@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\030-练习1和2 布尔运算符和数学运算符练习\bin\Debug\030-练习1和2 布尔运算符和数学运算符练习.exe.config
+E:\vs workspace\学习c sharp编程\030-练习1和2 布尔运算符和数学运算符练习\bin\Debug\030-练习1和2 布尔运算符和数学运算符练习.exe
+E:\vs workspace\学习c sharp编程\030-练习1和2 布尔运算符和数学运算符练习\bin\Debug\030-练习1和2 布尔运算符和数学运算符练习.pdb
+E:\vs workspace\学习c sharp编程\030-练习1和2 布尔运算符和数学运算符练习\obj\Debug\030-练习1和2 布尔运算符和数学运算符练习.exe
+E:\vs workspace\学习c sharp编程\030-练习1和2 布尔运算符和数学运算符练习\obj\Debug\030-练习1和2 布尔运算符和数学运算符练习.pdb

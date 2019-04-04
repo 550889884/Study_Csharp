@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\017-布尔运算符\bin\Debug\017-布尔运算符.exe.config
+E:\vs workspace\学习c sharp编程\017-布尔运算符\bin\Debug\017-布尔运算符.exe
+E:\vs workspace\学习c sharp编程\017-布尔运算符\bin\Debug\017-布尔运算符.pdb
+E:\vs workspace\学习c sharp编程\017-布尔运算符\obj\Debug\017-布尔运算符.exe
+E:\vs workspace\学习c sharp编程\017-布尔运算符\obj\Debug\017-布尔运算符.pdb

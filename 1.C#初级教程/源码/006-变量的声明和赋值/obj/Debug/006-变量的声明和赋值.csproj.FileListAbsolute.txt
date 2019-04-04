@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\006-变量的声明和赋值\bin\Debug\006-变量的声明和赋值.exe.config
+E:\vs workspace\学习c sharp编程\006-变量的声明和赋值\bin\Debug\006-变量的声明和赋值.exe
+E:\vs workspace\学习c sharp编程\006-变量的声明和赋值\bin\Debug\006-变量的声明和赋值.pdb
+E:\vs workspace\学习c sharp编程\006-变量的声明和赋值\obj\Debug\006-变量的声明和赋值.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\006-变量的声明和赋值\obj\Debug\006-变量的声明和赋值.exe
+E:\vs workspace\学习c sharp编程\006-变量的声明和赋值\obj\Debug\006-变量的声明和赋值.pdb

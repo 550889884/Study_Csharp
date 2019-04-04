@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\003-变量的类型\bin\Debug\003-变量的类型.exe.config
+E:\vs workspace\学习c sharp编程\003-变量的类型\bin\Debug\003-变量的类型.exe
+E:\vs workspace\学习c sharp编程\003-变量的类型\bin\Debug\003-变量的类型.pdb
+E:\vs workspace\学习c sharp编程\003-变量的类型\obj\Debug\003-变量的类型.exe
+E:\vs workspace\学习c sharp编程\003-变量的类型\obj\Debug\003-变量的类型.pdb
+E:\vs workspace\学习c sharp编程\003-变量的类型\obj\Debug\003-变量的类型.csprojResolveAssemblyReference.cache

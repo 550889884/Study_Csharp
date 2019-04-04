@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\036-显示转换和隐式转换\bin\Debug\036-显示转换和隐式转换.exe.config
+E:\vs workspace\学习c sharp编程\036-显示转换和隐式转换\obj\Debug\036-显示转换和隐式转换.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\036-显示转换和隐式转换\bin\Debug\036-显示转换和隐式转换.exe
+E:\vs workspace\学习c sharp编程\036-显示转换和隐式转换\bin\Debug\036-显示转换和隐式转换.pdb
+E:\vs workspace\学习c sharp编程\036-显示转换和隐式转换\obj\Debug\036-显示转换和隐式转换.exe
+E:\vs workspace\学习c sharp编程\036-显示转换和隐式转换\obj\Debug\036-显示转换和隐式转换.pdb

@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\046-练习9和10 for循环练习和字符串处理\bin\Debug\046-练习9和10 for循环练习和字符串处理.exe.config
+E:\vs workspace\学习c sharp编程\046-练习9和10 for循环练习和字符串处理\bin\Debug\046-练习9和10 for循环练习和字符串处理.exe
+E:\vs workspace\学习c sharp编程\046-练习9和10 for循环练习和字符串处理\bin\Debug\046-练习9和10 for循环练习和字符串处理.pdb
+E:\vs workspace\学习c sharp编程\046-练习9和10 for循环练习和字符串处理\obj\Debug\046-练习9和10 for循环练习和字符串处理.exe
+E:\vs workspace\学习c sharp编程\046-练习9和10 for循环练习和字符串处理\obj\Debug\046-练习9和10 for循环练习和字符串处理.pdb

@@ -1,0 +1,6 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\020-线程争用问题\bin\Debug\020-线程争用问题.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\020-线程争用问题\bin\Debug\020-线程争用问题.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\020-线程争用问题\bin\Debug\020-线程争用问题.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\020-线程争用问题\obj\Debug\020-线程问题 争用条件.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\020-线程争用问题\obj\Debug\020-线程争用问题.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\020-线程争用问题\obj\Debug\020-线程争用问题.pdb

@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\013-练习题\bin\Debug\013-练习题.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\013-练习题\bin\Debug\013-练习题.exe
+E:\vs workspace\学习 c sharp编程 中级篇\013-练习题\bin\Debug\013-练习题.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\013-练习题\obj\Debug\013-练习题.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\013-练习题\obj\Debug\013-练习题.exe
+E:\vs workspace\学习 c sharp编程 中级篇\013-练习题\obj\Debug\013-练习题.pdb

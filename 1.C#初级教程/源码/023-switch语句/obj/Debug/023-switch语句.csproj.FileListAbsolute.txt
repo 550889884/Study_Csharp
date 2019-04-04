@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\023-switch语句\bin\Debug\023-switch语句.exe.config
+E:\vs workspace\学习c sharp编程\023-switch语句\bin\Debug\023-switch语句.exe
+E:\vs workspace\学习c sharp编程\023-switch语句\bin\Debug\023-switch语句.pdb
+E:\vs workspace\学习c sharp编程\023-switch语句\obj\Debug\023-switch语句.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\023-switch语句\obj\Debug\023-switch语句.exe
+E:\vs workspace\学习c sharp编程\023-switch语句\obj\Debug\023-switch语句.pdb

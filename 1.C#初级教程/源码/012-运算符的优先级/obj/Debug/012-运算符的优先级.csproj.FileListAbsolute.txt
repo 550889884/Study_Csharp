@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\012-运算符的优先级\bin\Debug\012-运算符的优先级.exe.config
+E:\vs workspace\学习c sharp编程\012-运算符的优先级\bin\Debug\012-运算符的优先级.exe
+E:\vs workspace\学习c sharp编程\012-运算符的优先级\bin\Debug\012-运算符的优先级.pdb
+E:\vs workspace\学习c sharp编程\012-运算符的优先级\obj\Debug\012-运算符的优先级.exe
+E:\vs workspace\学习c sharp编程\012-运算符的优先级\obj\Debug\012-运算符的优先级.pdb
+E:\vs workspace\学习c sharp编程\012-运算符的优先级\obj\Debug\012-运算符的优先级.csprojResolveAssemblyReference.cache

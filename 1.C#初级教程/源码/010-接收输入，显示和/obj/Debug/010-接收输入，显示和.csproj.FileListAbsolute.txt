@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\010-接收输入，显示和\bin\Debug\010-接收输入，显示和.exe.config
+E:\vs workspace\学习c sharp编程\010-接收输入，显示和\bin\Debug\010-接收输入，显示和.exe
+E:\vs workspace\学习c sharp编程\010-接收输入，显示和\bin\Debug\010-接收输入，显示和.pdb
+E:\vs workspace\学习c sharp编程\010-接收输入，显示和\obj\Debug\010-接收输入，显示和.exe
+E:\vs workspace\学习c sharp编程\010-接收输入，显示和\obj\Debug\010-接收输入，显示和.pdb

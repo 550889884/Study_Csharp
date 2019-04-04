@@ -1,0 +1,1 @@
+E:\vs workspace\学习c sharp编程\032-练习5和6 for循环和循环的嵌套调用\bin\Debug\032-练习5和6 for循环和循环的嵌套调用.exe.config

@@ -1,0 +1,7 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\bin\Debug\026-文件操作-查看文件和文件夹信息.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\bin\Debug\026-文件操作-查看文件和文件夹信息.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\bin\Debug\026-文件操作-查看文件和文件夹信息.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\obj\Debug\026-文件操作-查看文件和文件夹信息.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\obj\Debug\026-文件操作-查看文件和文件夹信息.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\obj\Debug\026-文件操作-查看文件和文件夹信息.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\026-文件操作-查看文件和文件夹信息\bin\Debug\TextFile1.txt

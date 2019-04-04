@@ -1,0 +1,6 @@
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\003-正则表达式\bin\Debug\003-正则表达式.exe.config
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\003-正则表达式\bin\Debug\003-正则表达式.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\003-正则表达式\bin\Debug\003-正则表达式.pdb
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\003-正则表达式\obj\Debug\003-正则表达式.csprojResolveAssemblyReference.cache
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\003-正则表达式\obj\Debug\003-正则表达式.exe
+c:\users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\003-正则表达式\obj\Debug\003-正则表达式.pdb

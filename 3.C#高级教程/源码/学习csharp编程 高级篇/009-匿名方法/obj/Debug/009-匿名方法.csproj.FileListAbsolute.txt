@@ -1,0 +1,1 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\009-匿名方法\bin\Debug\009-匿名方法.exe.config

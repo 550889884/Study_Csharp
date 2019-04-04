@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\026-for循环\bin\Debug\026-for循环.exe.config
+E:\vs workspace\学习c sharp编程\026-for循环\bin\Debug\026-for循环.exe
+E:\vs workspace\学习c sharp编程\026-for循环\bin\Debug\026-for循环.pdb
+E:\vs workspace\学习c sharp编程\026-for循环\obj\Debug\026-for循环.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\026-for循环\obj\Debug\026-for循环.exe
+E:\vs workspace\学习c sharp编程\026-for循环\obj\Debug\026-for循环.pdb

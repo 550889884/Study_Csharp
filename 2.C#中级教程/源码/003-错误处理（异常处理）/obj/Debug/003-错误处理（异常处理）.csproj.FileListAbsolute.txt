@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\003-错误处理（异常处理）\bin\Debug\003-错误处理（异常处理）.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\003-错误处理（异常处理）\bin\Debug\003-错误处理（异常处理）.exe
+E:\vs workspace\学习 c sharp编程 中级篇\003-错误处理（异常处理）\bin\Debug\003-错误处理（异常处理）.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\003-错误处理（异常处理）\obj\Debug\003-错误处理（异常处理）.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\003-错误处理（异常处理）\obj\Debug\003-错误处理（异常处理）.exe
+E:\vs workspace\学习 c sharp编程 中级篇\003-错误处理（异常处理）\obj\Debug\003-错误处理（异常处理）.pdb

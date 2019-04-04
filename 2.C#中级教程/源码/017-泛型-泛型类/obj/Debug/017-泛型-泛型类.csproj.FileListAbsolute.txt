@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\017-泛型-泛型类\bin\Debug\017-泛型-泛型类.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\017-泛型-泛型类\bin\Debug\017-泛型-泛型类.exe
+E:\vs workspace\学习 c sharp编程 中级篇\017-泛型-泛型类\bin\Debug\017-泛型-泛型类.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\017-泛型-泛型类\obj\Debug\017-泛型-泛型类.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\017-泛型-泛型类\obj\Debug\017-泛型-泛型类.exe
+E:\vs workspace\学习 c sharp编程 中级篇\017-泛型-泛型类\obj\Debug\017-泛型-泛型类.pdb

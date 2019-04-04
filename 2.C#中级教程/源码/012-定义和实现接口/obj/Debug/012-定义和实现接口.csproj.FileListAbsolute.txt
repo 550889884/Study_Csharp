@@ -1,0 +1,1 @@
+E:\vs workspace\学习 c sharp编程 中级篇\012-定义和实现接口\bin\Debug\012-定义和实现接口.exe.config

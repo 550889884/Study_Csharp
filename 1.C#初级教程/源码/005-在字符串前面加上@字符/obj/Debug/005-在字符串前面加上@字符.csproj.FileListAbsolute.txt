@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\005-在字符串前面加上@字符\bin\Debug\005-在字符串前面加上@字符.exe.config
+E:\vs workspace\学习c sharp编程\005-在字符串前面加上@字符\bin\Debug\005-在字符串前面加上@字符.exe
+E:\vs workspace\学习c sharp编程\005-在字符串前面加上@字符\bin\Debug\005-在字符串前面加上@字符.pdb
+E:\vs workspace\学习c sharp编程\005-在字符串前面加上@字符\obj\Debug\005-在字符串前面加上@字符.exe
+E:\vs workspace\学习c sharp编程\005-在字符串前面加上@字符\obj\Debug\005-在字符串前面加上@字符.pdb

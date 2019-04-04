@@ -1,0 +1,5 @@
+E:\vs workspace\学习c sharp编程\057-练习10和11 循环结构练习\bin\Debug\057-练习10和11 循环结构练习.exe.config
+E:\vs workspace\学习c sharp编程\057-练习10和11 循环结构练习\bin\Debug\057-练习10和11 循环结构练习.exe
+E:\vs workspace\学习c sharp编程\057-练习10和11 循环结构练习\bin\Debug\057-练习10和11 循环结构练习.pdb
+E:\vs workspace\学习c sharp编程\057-练习10和11 循环结构练习\obj\Debug\057-练习10和11 循环结构练习.exe
+E:\vs workspace\学习c sharp编程\057-练习10和11 循环结构练习\obj\Debug\057-练习10和11 循环结构练习.pdb

@@ -1,0 +1,1 @@
+E:\vs workspace\学习 c sharp编程 中级篇\010-密封类和密封方法\bin\Debug\010-密封类和密封方法.exe.config

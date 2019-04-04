@@ -1,0 +1,6 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\024-tcplistener\bin\Debug\024-tcplistener.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\024-tcplistener\bin\Debug\024-tcplistener.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\024-tcplistener\bin\Debug\024-tcplistener.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\024-tcplistener\obj\Debug\024-tcplistener.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\024-tcplistener\obj\Debug\024-tcplistener.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\024-tcplistener\obj\Debug\024-tcplistener.pdb

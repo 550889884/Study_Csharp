@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\004-练习 定义变量存储主角的信息\bin\Debug\004-练习 定义变量存储主角的信息.exe.config
+E:\vs workspace\学习c sharp编程\004-练习 定义变量存储主角的信息\bin\Debug\004-练习 定义变量存储主角的信息.exe
+E:\vs workspace\学习c sharp编程\004-练习 定义变量存储主角的信息\bin\Debug\004-练习 定义变量存储主角的信息.pdb
+E:\vs workspace\学习c sharp编程\004-练习 定义变量存储主角的信息\obj\Debug\004-练习 定义变量存储主角的信息.exe
+E:\vs workspace\学习c sharp编程\004-练习 定义变量存储主角的信息\obj\Debug\004-练习 定义变量存储主角的信息.pdb
+E:\vs workspace\学习c sharp编程\004-练习 定义变量存储主角的信息\obj\Debug\004-练习 定义变量存储主角的信息.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\vs workspace\学习 c sharp编程 中级篇\006-类的定义和声明\bin\Debug\006-类的定义和声明.exe.config
+E:\vs workspace\学习 c sharp编程 中级篇\006-类的定义和声明\bin\Debug\006-类的定义和声明.exe
+E:\vs workspace\学习 c sharp编程 中级篇\006-类的定义和声明\bin\Debug\006-类的定义和声明.pdb
+E:\vs workspace\学习 c sharp编程 中级篇\006-类的定义和声明\obj\Debug\006-类的定义和声明.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习 c sharp编程 中级篇\006-类的定义和声明\obj\Debug\006-类的定义和声明.exe
+E:\vs workspace\学习 c sharp编程 中级篇\006-类的定义和声明\obj\Debug\006-类的定义和声明.pdb

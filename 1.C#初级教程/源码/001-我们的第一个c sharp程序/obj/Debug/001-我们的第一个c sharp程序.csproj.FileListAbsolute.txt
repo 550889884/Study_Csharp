@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\001-我们的第一个c sharp程序\bin\Debug\001-我们的第一个c sharp程序.exe.config
+E:\vs workspace\学习c sharp编程\001-我们的第一个c sharp程序\bin\Debug\001-我们的第一个c sharp程序.exe
+E:\vs workspace\学习c sharp编程\001-我们的第一个c sharp程序\bin\Debug\001-我们的第一个c sharp程序.pdb
+E:\vs workspace\学习c sharp编程\001-我们的第一个c sharp程序\obj\Debug\001-我们的第一个c sharp程序.exe
+E:\vs workspace\学习c sharp编程\001-我们的第一个c sharp程序\obj\Debug\001-我们的第一个c sharp程序.pdb
+E:\vs workspace\学习c sharp编程\001-我们的第一个c sharp程序\obj\Debug\001-我们的第一个c sharp程序.csprojResolveAssemblyReference.cache

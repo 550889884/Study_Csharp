@@ -1,0 +1,6 @@
+E:\vs workspace\学习c sharp编程\039-数组\bin\Debug\039-数组.exe.config
+E:\vs workspace\学习c sharp编程\039-数组\obj\Debug\039-数组.csprojResolveAssemblyReference.cache
+E:\vs workspace\学习c sharp编程\039-数组\bin\Debug\039-数组.exe
+E:\vs workspace\学习c sharp编程\039-数组\bin\Debug\039-数组.pdb
+E:\vs workspace\学习c sharp编程\039-数组\obj\Debug\039-数组.exe
+E:\vs workspace\学习c sharp编程\039-数组\obj\Debug\039-数组.pdb

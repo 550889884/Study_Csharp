@@ -1,0 +1,1 @@
+E:\vs workspace\学习 c sharp编程 中级篇\001-调试和错误处理\bin\Debug\001-调试和错误处理.exe.config

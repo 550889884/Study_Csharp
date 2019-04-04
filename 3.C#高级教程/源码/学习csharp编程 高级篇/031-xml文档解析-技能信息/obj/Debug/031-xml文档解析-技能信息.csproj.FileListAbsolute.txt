@@ -1,0 +1,7 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\bin\Debug\031-xml文档解析-技能信息.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\obj\Debug\031-xml文档解析-技能信息.csprojResolveAssemblyReference.cache
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\bin\Debug\xml技能信息.txt
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\bin\Debug\031-xml文档解析-技能信息.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\bin\Debug\031-xml文档解析-技能信息.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\obj\Debug\031-xml文档解析-技能信息.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\学习csharp编程 高级篇\031-xml文档解析-技能信息\obj\Debug\031-xml文档解析-技能信息.pdb

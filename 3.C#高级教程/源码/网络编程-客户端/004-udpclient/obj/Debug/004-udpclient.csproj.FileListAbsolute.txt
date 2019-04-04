@@ -1,0 +1,5 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\004-udpclient\bin\Debug\004-udpclient.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\004-udpclient\bin\Debug\004-udpclient.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\004-udpclient\bin\Debug\004-udpclient.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\004-udpclient\obj\Debug\004-udpclient.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\004-udpclient\obj\Debug\004-udpclient.pdb

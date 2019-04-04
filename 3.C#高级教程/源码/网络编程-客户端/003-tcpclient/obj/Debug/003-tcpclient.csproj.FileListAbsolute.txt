@@ -1,0 +1,5 @@
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\003-tcpclient\bin\Debug\003-tcpclient.exe.config
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\003-tcpclient\bin\Debug\003-tcpclient.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\003-tcpclient\bin\Debug\003-tcpclient.pdb
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\003-tcpclient\obj\Debug\003-tcpclient.exe
+C:\Users\devsiki\Documents\Visual Studio 2012\Projects\网络编程-客户端\003-tcpclient\obj\Debug\003-tcpclient.pdb
